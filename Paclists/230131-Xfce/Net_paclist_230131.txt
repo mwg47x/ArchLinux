@@ -1,4 +1,5 @@
 avahi
+curl
 dnsutils
 firewalld
 net-tools

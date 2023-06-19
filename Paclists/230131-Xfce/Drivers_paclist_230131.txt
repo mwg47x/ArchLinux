@@ -1,9 +1,12 @@
+#This list is for VM's being built in a vSphere environment.
 dkms
 haveged
-intel-media-driver
-libva-mesa-driver
-libva-utils
+#intel-media-driver
+#libva-mesa-driver
+#libva-utils
 linux-headers
+linux-lts-headers
 mesa
 mesa-vdpau
-virtualbox-guest-utils
+xf86-input-vmmouse
+xf86-video-vmware
