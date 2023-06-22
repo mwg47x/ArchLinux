@@ -3,6 +3,7 @@ alsa-utils
 arch-install-scripts
 archinstall
 base
+base-devel
 bind
 btrfs-progs
 clonezilla
@@ -26,6 +27,7 @@ exfatprogs
 f2fs-tools
 fatresize
 fsarchiver
+git
 gnu-netcat
 gpart
 gpm

@@ -11,6 +11,7 @@ foomatic-db-nonfree-ppds
 ghostscript
 gsfonts
 gutenprint
+hplip
 python-pillow
 python-pip
 python-pyqt5
