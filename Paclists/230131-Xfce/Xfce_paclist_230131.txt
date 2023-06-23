@@ -20,6 +20,7 @@ meld
 papirus-icon-theme
 pavucontrol
 polkit-gnome
+smbclient
 sshfs
 xarchiver
 xfce4
