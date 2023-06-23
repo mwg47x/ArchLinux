@@ -28,5 +28,6 @@ papirus-icon-theme
 parcellite
 pavucontrol
 polkit-gnome
+smbclient
 sshfs
 xarchiver

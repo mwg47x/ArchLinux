@@ -1,7 +1,5 @@
 xorg-server
-xorg-server-utils
 xorg-twm
-xorg-utils
 xorg-xinit
 xorg-xkill
 xorg-xrandr

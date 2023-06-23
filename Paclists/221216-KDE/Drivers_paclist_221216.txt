@@ -1,12 +1,20 @@
-#This list is for VM's being built in a vSphere environment.
+##This list is for VM's being built in a vSphere environment.
 dkms
 haveged
-#intel-media-driver
-#libva-mesa-driver
-#libva-utils
 linux-headers
 linux-lts-headers
 mesa
 mesa-vdpau
 xf86-input-vmmouse
 xf86-video-vmware
+
+##This list is for the Z97-A mobo and 4790K processor.
+dkms
+haveged
+intel-media-driver
+libva-intel-driver
+libva-utils
+linux-headers
+linux-lts-headers
+mesa
+mesa-vdpau
