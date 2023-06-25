@@ -70,6 +70,7 @@ open-iscsi
 open-vm-tools
 openssh
 openvpn
+os-prober
 partclone
 parted
 partimage
