@@ -8,6 +8,7 @@ networkmanager
 networkmanager-openvpn
 network-manager-applet
 nm-connection-editor
+nmap
 nss-mdns
 wget
 whois
