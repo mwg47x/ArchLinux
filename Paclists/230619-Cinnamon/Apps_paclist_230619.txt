@@ -9,6 +9,8 @@ gcc
 gimp
 filezilla
 firefox
+firefox-adblock-plus
+firefox-ublock-origin
 flatpak
 htop
 keepassxc
