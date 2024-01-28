@@ -15,6 +15,7 @@ flatpak
 htop
 keepassxc
 libreoffice-fresh
+lynis
 mpv
 neofetch
 vlc
