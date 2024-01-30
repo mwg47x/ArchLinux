@@ -8,9 +8,7 @@ evince
 gcc
 gimp
 filezilla
-firefox
-firefox-adblock-plus
-firefox-ublock-origin
+#floorp Delete this line and get it from the AUR
 flatpak
 htop
 keepassxc
