@@ -16,6 +16,6 @@ keepassxc
 libreoffice-fresh
 lynis
 mpv
-neofetch
+fastfetch
 vlc
 yt-dlp
