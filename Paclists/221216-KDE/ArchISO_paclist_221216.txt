@@ -28,7 +28,7 @@ f2fs-tools
 fatresize
 fsarchiver
 git
-gnu-netcat
+#gnu-netcat (This can cause package conflicts.)
 gpart
 gpm
 gptfdisk
@@ -67,7 +67,7 @@ nmap
 ntfs-3g
 nvme-cli
 open-iscsi
-open-vm-tools
+#open-vm-tools
 openssh
 openvpn
 os-prober
@@ -78,10 +78,9 @@ pcsclite
 ppp
 pptpclient
 pv
-qemu-guest-agent
+#qemu-guest-agent
 refind
 reflector
-reiserfsprogs
 rp-pppoe
 rsync
 rxvt-unicode-terminfo

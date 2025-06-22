@@ -8,8 +8,9 @@ evince
 gcc
 gimp
 filezilla
-firefox
+#firefox
 flatpak
+#floorp (A better Mozilla browser. Will need to get it thru the AUR.)
 htop
 keepassxc
 libreoffice-fresh
