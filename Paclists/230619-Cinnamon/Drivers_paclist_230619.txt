@@ -4,7 +4,6 @@ haveged
 linux-headers
 linux-lts-headers
 mesa
-mesa-vdpau
 xf86-input-vmmouse
 xf86-video-vmware
 
@@ -17,4 +16,19 @@ libva-utils
 linux-headers
 linux-lts-headers
 mesa
-mesa-vdpau
+
+##This list is for a G6 HP Mini
+
+
+##This list is for a G9 HP Mini
+dkms
+haveged
+intel-media-driver
+libva-intel-driver
+libva-utils
+linux-headers
+linux-lts-headers
+mesa
+
+##This list is for the AMD Ryzen CPU on the Gigabyte B550 UD AC motherboard. Needs work!!!
+libva-mesa-driver (##for hardware decoding on AMD GPU's)
