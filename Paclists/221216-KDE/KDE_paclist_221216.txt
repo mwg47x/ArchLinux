@@ -1,16 +1,6 @@
-This list should allow KDE to run under wayland. Do NOT run the Xorg paclist if doing wayland.
-ark
-dolphin
-glfw-wayland
-kde-applications-meta
-konsole
-kwrite
+kde-system-meta
+kde-utilities-meta
 networkmanager-qt
-packagekit-qt5
+packagekit-qt6
 plasma-meta
-plasma-wayland-session
-print-manager
-qt5-wayland
-sddm
-wayland
-xorg-xwayland
+qt6-wayland
